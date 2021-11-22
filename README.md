@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Imrul Kayes</h1>
-<h3 align="center">A student of BSc in CSE.</h3>
+<h3 align="center">Web Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdiktushar&label=Profile%20views&color=0e75b6&style=flat" alt="mdiktushar" /> </p>
 
