@@ -16,7 +16,6 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdiktushar" alt="mdiktushar" /></a> </p>
 
-![](https://raw.githubusercontent.com/mdiktushar/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mdiktushar/cf-stats/main/output/light_card.svg)
 
 <h3 align="left">Connect with me:</h3>
