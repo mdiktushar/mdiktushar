@@ -8,13 +8,17 @@
 
 
 <!--- .................................................🤝 Github Stats....................................................................... --->
-<h1 align="center">🤝 Github Stats</h1>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdiktushar&show_icons=true&locale=en&layout=compact" alt="mdiktushar" /></p>
+<h2 align="center">🤝 Github Stats</h2>
+<!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdiktushar&show_icons=true&locale=en&layout=compact" alt="mdiktushar" /></p> -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdiktushar&show_icons=true&locale=en" alt="mdiktushar" /></p> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdiktushar&show_icons=true&locale=en" alt="mdiktushar" /></p>
-
+<div align="center">
+	
+[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdiktushar" alt="mdiktushar" /></a> </p>
-
 
 
 
