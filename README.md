@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Md. Imrul Kayes</h1>
-<h3 align="center">Web Application Developer & Deep Learning Researcher</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdiktushar&label=Profile%20views&color=0e75b6&style=flat" alt="mdiktushar" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/mdiktushar" target="blank"><img src="https://img.shields.io/twitter/follow/mdiktushar?logo=twitter&style=for-the-badge" alt="mdiktushar" /></a> </p> -->
-
-
-
-<!--- .................................................🤝 Github Stats....................................................................... --->
-<h2 align="center">🤝 Github Stats</h2>
-<!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdiktushar&show_icons=true&locale=en&layout=compact" alt="mdiktushar" /></p> -->
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdiktushar&show_icons=true&locale=en" alt="mdiktushar" /></p> -->
-
+<h2 align="center"> Hi there 👋 , I'm Md. Imrul Kayes <br/></h2> 
 <div align="center">
-	
-[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</div>
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdiktushar" alt="mdiktushar" /></a> </p>
 
+<p align="center">
+  <a href="https://github.com/mdiktushar" >
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdiktushar?label=Github%20followers">
+  </a> 
+  <a href="https://github.com/mdiktushar" >
+    <img src="https://komarev.com/ghpvc/?username=mdiktushar&label=Views&color=green" alt="views on github" />
+  </a>
+ 	<a href="https://codeforces.com/profile/mdiktushar">
+    <img src="https://raw.githubusercontent.com/mdiktushar/codeforces-stats/main/output/rating.svg" alt="CF rating" />
+  </a>
+  <a href="https://leetcode.com/mdiktushar/">
+    <img src="https://cp-logo.vercel.app/leetcode/mdiktushar" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/14591824/md-imrul-kayes">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14591824?color=orange&label=reputation&logo=stackoverflow">
+  </a>	
+</p>
+
+I'm a computer engineer specialising in web application development, Deep Learning & Machine Learning research. My primary goal is to use my expertise to create unique work. In addition, I am a full-time learner who enjoys exposure to new technology. <be>
+On the other side, I am a traveller who enjoys life to the fullest. Reading literature and playing chess are two of my favourite pastimes. My favourite hobbies are swimming, sketching, golfing, cooking, gardening, and home arrangements.
+
+</div>
 
 
 <!--- ................................................Tech Stack........................................................................ --->
@@ -77,6 +81,29 @@
 	
 ![](https://raw.githubusercontent.com/mdiktushar/cf-stats/main/output/light_card.svg)
 </div>
+
+
+
+
+
+<!--- .................................................🤝 Github Stats....................................................................... --->
+<h2 align="center">🤝 Github Stats</h2>
+<!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdiktushar&show_icons=true&locale=en&layout=compact" alt="mdiktushar" /></p> -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdiktushar&show_icons=true&locale=en" alt="mdiktushar" /></p> -->
+
+<div align="center">
+	
+[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
+<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdiktushar" alt="mdiktushar" /></a> </p>
+
+<div align="center">
+	
+![](https://github-readme-activity-graph.vercel.app/graph?username=mdiktushar&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
+</div>
+
 
 
 
