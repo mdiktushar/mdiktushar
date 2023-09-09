@@ -74,6 +74,7 @@
 🏆 Competitive Programming
 </h2>
 <div align="center">
+	
 ![](https://raw.githubusercontent.com/mdiktushar/cf-stats/main/output/light_card.svg)
 </div>
 
