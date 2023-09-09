@@ -2,6 +2,8 @@
 <h2 align="center"> Hi there 👋 , I'm Md. Imrul Kayes <br/></h2> 
 <div align="center">
 
+<!--- ........................................................Links................................................................ --->
+
 <p align="center">
   <a href="https://github.com/mdiktushar" >
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdiktushar?label=Github%20followers">
@@ -17,10 +19,31 @@
   </a>	
 </p>
 
+<!--- ........................................................Introduction................................................................ --->
+
 I'm a computer engineer specialising in web application development, Deep Learning & Machine Learning research. My primary goal is to use my expertise to create unique work. In addition, I am a full-time learner who enjoys exposure to new technology. <be>
 On the other side, I am a traveller who enjoys life to the fullest. Reading literature and playing chess are two of my favourite pastimes. My favourite hobbies are swimming, sketching, golfing, cooking, gardening, and home arrangements.
 
 </div>
+
+
+
+
+<!--- ................................................Contacts........................................................................ --->
+
+<h2 align="center">Connect with me:</h2>
+<p align="center" style="background-color: #f2f2f2;">
+  <a href="https://twitter.com/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdiktushar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdiktushar" height="30" width="40" /></a>
+  <a href="https://fb.com/md.imrulkayestushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="md.imrulkayestushar" height="30" width="40" /></a>
+  <a href="https://instagram.com/mdiktuhsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdiktuhsar" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/mdiktuhsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdiktuhsar" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mdiktushar" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mdiktushar" height="30" width="40" /></a>
+</p>
+
+
+
 
 
 <!--- ................................................Tech Stack........................................................................ --->
@@ -101,19 +124,3 @@ On the other side, I am a traveller who enjoys life to the fullest. Reading lite
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mdiktushar&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
 </div>
 
-
-
-
-
-<!--- ................................................Contacts........................................................................ --->
-
-<h2 align="center">Connect with me:</h2>
-<p align="center" style="background-color: #f2f2f2;">
-  <a href="https://twitter.com/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdiktushar" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdiktushar" height="30" width="40" /></a>
-  <a href="https://fb.com/md.imrulkayestushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="md.imrulkayestushar" height="30" width="40" /></a>
-  <a href="https://instagram.com/mdiktuhsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdiktuhsar" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/mdiktuhsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdiktuhsar" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mdiktushar" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mdiktushar" height="30" width="40" /></a>
-</p>
