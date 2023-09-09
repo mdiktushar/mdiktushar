@@ -9,9 +9,6 @@
   <a href="https://github.com/mdiktushar" >
     <img src="https://komarev.com/ghpvc/?username=mdiktushar&label=Views&color=green" alt="views on github" />
   </a>
- 	<a href="https://codeforces.com/profile/mdiktushar">
-    <img src="https://raw.githubusercontent.com/mdiktushar/codeforces-stats/main/output/rating.svg" alt="CF rating" />
-  </a>
   <a href="https://leetcode.com/mdiktushar/">
     <img src="https://cp-logo.vercel.app/leetcode/mdiktushar" alt="Leet code rating" />
   </a>
