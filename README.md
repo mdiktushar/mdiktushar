@@ -118,8 +118,3 @@ On the other side, I am a traveller who enjoys life to the fullest. Reading lite
 </div>
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdiktushar" alt="mdiktushar" /></a> </p>
 
-<div align="center">
-	
-![](https://github-readme-activity-graph.vercel.app/graph?username=mdiktushar&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
-</div>
-
