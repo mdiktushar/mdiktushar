@@ -27,24 +27,6 @@ On the other side, I am a traveller who enjoys life to the fullest. Reading lite
 
 
 
-
-<!--- ................................................Contacts........................................................................ --->
-
-<h2 align="center">Connect with me:</h2>
-<p align="center" style="background-color: #f2f2f2;">
-  <a href="https://twitter.com/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdiktushar" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mdimrulkayestushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdiktushar" height="30" width="40" /></a>
-  <a href="https://fb.com/md.imrulkayestushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="md.imrulkayestushar" height="30" width="40" /></a>
-  <a href="https://instagram.com/mdiktuhsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdiktuhsar" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/mdiktuhsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdiktuhsar" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mdiktushar" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mdiktushar" height="30" width="40" /></a>
-</p>
-
-
-
-
-
 <!--- ................................................Tech Stack........................................................................ --->
 <h2 align="center">
 💻 Tech Stack
