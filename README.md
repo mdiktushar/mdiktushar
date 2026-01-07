@@ -4,18 +4,17 @@
 <!--- ........................................................Links................................................................ --->
 
 <p align="center">
-  <a href="https://github.com/mdiktushar" >
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdiktushar?label=Github%20followers">
-  </a> 
-  <a href="https://github.com/mdiktushar" >
-    <img src="https://komarev.com/ghpvc/?username=mdiktushar&label=Views&color=green" alt="views on github" />
-  </a>
-  <a href="https://leetcode.com/mdiktushar/">
-    <img src="https://cp-logo.vercel.app/leetcode/mdiktushar" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/14591824/md-imrul-kayes">
-    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14591824?color=orange&label=reputation&logo=stackoverflow">
-  </a>	
+	<a href="https://twitter.com/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/mdimrulkayestushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdimrulkayestushar" height="30" width="40" /></a>
+	<a href="https://stackoverflow.com/users/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://kaggle.com/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://fb.com/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://instagram.com/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://www.codechef.com/users/mdiktushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://www.hackerrank.com/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://codeforces.com/profile/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://www.leetcode.com/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdiktushar" height="30" width="40" /></a>
+	<a href="https://auth.geeksforgeeks.org/user/mdiktushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdiktushar" height="30" width="40" /></a>
 </p>
 
 <!--- ........................................................Introduction................................................................ --->
@@ -82,21 +81,4 @@ On the other side, I am a traveller who enjoys life to the fullest. Reading lite
 	
 ![](https://raw.githubusercontent.com/mdiktushar/cf-stats/main/output/light_card.svg)
 </div>
-
-
-
-
-
-<!--- .................................................🤝 Github Stats....................................................................... --->
-<h2 align="center">🤝 Github Stats</h2>
-<!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdiktushar&show_icons=true&locale=en&layout=compact" alt="mdiktushar" /></p> -->
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdiktushar&show_icons=true&locale=en" alt="mdiktushar" /></p> -->
-
-<div align="center">
-	
-
-[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-readme/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</div>
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdiktushar" alt="mdiktushar" /></a> </p>
 
