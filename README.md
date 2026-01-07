@@ -1,4 +1,6 @@
-<h2 align="center"> Hi there 👋 , I'm Md. Imrul Kayes <br/></h2> 
+<h3 align="center"> Hi there 👋 , I'm Md. Imrul Kayes</h3>
+<h5 align="center">also known as</h5>
+<h2 align="center">Tushar 😊</h2> 
 <div align="center">
 
 <!--- ........................................................Links................................................................ --->
